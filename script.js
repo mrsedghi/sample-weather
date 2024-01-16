@@ -1,4 +1,4 @@
-const apiKey = "f3b2c142c7515b0267a61b633acc1863";
+const apiKey = "***Your API KEY***";
 
 let city = " ";
 
